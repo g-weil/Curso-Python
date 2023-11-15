@@ -35,4 +35,3 @@ def notas(*nota, situ=False):
 
 resp = notas(8.4, 9.6, 9.3, situ=True)
 print(resp)
-print('porra do caralho')
